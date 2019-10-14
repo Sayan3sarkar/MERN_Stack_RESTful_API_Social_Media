@@ -7,9 +7,9 @@ A simple REST API implemented with MERN Stack to create a Social Media Platform
 ## Steps to run project
 
 <ul>
-	<li>Go to Repo Directory</li>
-	<li>From <b>terminal</b>, direct to <b>Front End</b> directory and run <b>npm install</b>. Then <b>npm run</b></li>
-	<li>From <b>terminal</b>, direct to <b>RestAPI Backend</b> directory and run <b>npm install</b>. Then <b>npm run</b></li>
+	<li>Go to Repo Directory from <b>Terminal</b></li>
+	<li>From terminal, direct to <b>Front End</b> directory and run <b>npm install</b>. Then <b>npm run</b></li>
+	<li>From terminal, direct to <b>RestAPI Backend</b> directory and run <b>npm install</b>. Then <b>npm run</b></li>
 </ul>
 
 <hr>
